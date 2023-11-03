@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "clerksy",
+			"path": "."
+		},
+		{
+			"name": "textolit",
+			"path": "../textolit"
+		}
+	],
+	"settings": {}
+}
